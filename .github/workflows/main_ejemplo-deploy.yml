@@ -66,9 +66,10 @@ jobs:
         with:
           app-name: 'ejemplo-deploy'
           slot-name: 'Production'
-          package: dist
+          package: .
 
           
+
 
 
 
