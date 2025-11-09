@@ -60,7 +60,8 @@ jobs:
         with:
           app-name: 'ejemplo-deploy'
           slot-name: 'Production'
-          package: build
+          package: ./dist
 
           
+
 
